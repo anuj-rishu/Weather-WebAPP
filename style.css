@@ -14,7 +14,9 @@ body{
     background-color: #f5b8b8;
     color: #fff;
     margin: 100px auto 0;
-    border-radius: 20px;
+    /* border-radius: 20px; */
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     padding: 40px 35px;
     padding: 40px 35px;
     text-align: center;
@@ -35,7 +37,7 @@ body{
     padding: 10px 25px;
     height: 60px;
     border: 30px;
-    border-radius:30px ;
+    border-radius:20px ;
     flex :1;
     margin-right: 16x;
     font-size: 18px;
@@ -45,7 +47,7 @@ body{
     border: 0;
     outline: 0;
     background-color: white;   
-   border-radius: 50%;
+   border-radius: 40%;
    width: 60px;
    height: 60px;
    cursor: pointer;
@@ -108,3 +110,18 @@ humidity, wind{
     display: none;
     color: red;
 }
+.footer{
+    width: 90%;
+    max-width: 470px;
+    background-color: #f5b8b8;
+    color: #fff;
+    margin: 0px auto 0;
+    border-top: 1px solid #000;
+    border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+    
+    padding: 10px 35px;
+    text-align: center;
+    color: #000;
+}
+   

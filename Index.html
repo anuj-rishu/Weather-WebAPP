@@ -12,18 +12,27 @@
     height: 20px;
     
   }
-/* #weather-icon{
+#icon-size{
   width: 125px;
-  height: 125px;
-} */
+  height: 100px;
+  
+}
+#heading-col{
+  color: black;
+}
  </style> 
 </head>
 
 <body>
   <div class="card">
 
+    <div class="header">
+      <img id="icon-size" src="weather-icon.png" alt="Weather Icon">
+      <h1 id="heading-col">Weather App</h1>
+    </div>
+<br>
     <div class="search">
-      <input type="text" placeholder="enter city name" spellcheck="false">
+      <input type="text" placeholder="Enter city name" spellcheck="false">
       
       <button><img id="search-icon" src="search icon.png" alt=""></button>
        </div>
@@ -72,10 +81,19 @@
           <p>Wind Speed</p>
         </div>
       </div>
+      
+      
     </div>
+   
     
    </div>
+  
+   <div class="footer">
+    <p>Crafted with ❤️ by <a id="anuj-footer-color"href="https://www.linkedin.com/in/anuj-rishu" target="_blank" >Anuj Rishu Tiwari</a></p>
+  </div>
+
 </div>
+
   <script>
     const apiKey ="952aa5657ad89f05ac2ffcc04d026386";
     const apiUrl ="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
