@@ -20,7 +20,7 @@ Insert gif or link to demo
 ## Screenshots
 
 ![App <img width="877" alt="Screenshot 2023-09-10 at 2 16 24 AM" src="https://github.com/anuj-rishu/Weather-WebAPP/assets/115218200/9488b9ca-73c6-4645-bc0a-53b5e6501129">
-Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 
