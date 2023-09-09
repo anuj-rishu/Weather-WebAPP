@@ -17,7 +17,7 @@
 
 
 
-## Screenshots
+## Screenshot
 
 <img width="476" alt="Screenshot 2023-09-10 at 2 53 54 AM" src="https://github.com/anuj-rishu/Weather-WebAPP/assets/115218200/b8799184-9bf4-4a6e-864d-266b77d38ad5">
 
