@@ -7,7 +7,7 @@
 
 ## Demo
 
-[Insert gif or link to demo](https://weatherappart.netlify.app)
+[Website Link ](https://weatherappart.netlify.app)
 
 
 ## Features
@@ -19,7 +19,8 @@
 
 ## Screenshots
 
- <img width="877" alt="Screenshot 2023-09-10 at 2 16 24 AM" src="https://github.com/anuj-rishu/Weather-WebAPP/assets/115218200/9488b9ca-73c6-4645-bc0a-53b5e6501129">
+<img width="476" alt="Screenshot 2023-09-10 at 2 53 54 AM" src="https://github.com/anuj-rishu/Weather-WebAPP/assets/115218200/b8799184-9bf4-4a6e-864d-266b77d38ad5">
+
 
 
 
@@ -34,7 +35,7 @@ HTML, CSS and JS
 
 
 ## 🔗 MY Socials
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.anujrishu.live/Portfolio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-rishu/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuj_rishu)
 
