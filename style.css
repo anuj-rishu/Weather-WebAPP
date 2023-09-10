@@ -58,11 +58,11 @@ body{
     
 }
 .weather img{
-    width: 125px;
-  height: 125px;
+    width: 200px;
+  height: 200px;
 }
 .weather-icon{
-    width: 170px;
+    width: 180px;
     margin-top: 30px;
 
 }
