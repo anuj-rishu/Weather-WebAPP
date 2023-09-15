@@ -31,14 +31,14 @@ body{
 }
 .search input{
     border: 0;
-    outline: 0;
+    outline: 0; 
     background-color: white;
     color: #555;
     padding: 10px 25px;
     height: 60px;
     border: 30px;
     border-radius:20px ;
-    flex :1;
+   flex :1; 
     margin-right: 16x;
     font-size: 18px;
 
@@ -120,7 +120,8 @@ humidity, wind{
     border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
     
-    padding: 10px 35px;
+    padding-top: 10px;
+    padding-left: 35px;
     text-align: center;
     color: #000;
 }
